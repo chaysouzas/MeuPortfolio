@@ -1,0 +1,31 @@
+/* Reset CSS básico */
+
+/* Box-sizing reset para garantir que as dimensões sejam calculadas corretamente */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Remove a decoração de lista padrão */
+ul, ol {
+  list-style: none;
+}
+
+/* Remove as margens e preenchimentos padrão do corpo */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos padrão para elementos HTML5 */
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+  display: block;
+}
+
+/* Redefine as configurações de fonte para evitar inconsistências entre navegadores */
+body, button, input, select, textarea {
+  font-family: sans-serif;
+}
