@@ -1,4 +1,4 @@
-/* texto informativo*/
+/* frase index*/
 div.texto_informacoes{
     display: flex;
     margin: 9em 0em -13em 24em;
@@ -52,7 +52,7 @@ div.icones_redes-sociais{
 }
 
 .lista-horizontal li {
-    margin-right: 18px; /* Adiciona um espaço entre os ícones*/
+    margin-right: 18px; 
 }
 
 li.circle button{

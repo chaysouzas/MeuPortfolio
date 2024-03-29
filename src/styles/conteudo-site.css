@@ -28,8 +28,6 @@ div.info_perfil p{
     padding:2px;
 }
 
-
-
 /*conteudo página jornada acadêmica*/
 
 div.conteudo_formacao h1{
@@ -49,8 +47,8 @@ div.conteudo_formacao h2{
 
 }
 div.conteudo_formacao h3{
-    font-size: 0.60em;
-    font-weight: 200;
+    font-size: 0.85em;
+    font-weight: 300;
     font-family: var(--font-principal);
     color: #ffff;
 
