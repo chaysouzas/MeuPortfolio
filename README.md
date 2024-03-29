@@ -1,6 +1,8 @@
 # Meu Portfolio
  Projeto desenvolvido durante o curso Análise e Desenvolvimento de Sistemas,
  Matéria: Fundamentos da programação web.
+ 
+ [Clique para visualizar](https://chaysouzas.github.io/MeuPortfolio/)
 
 # Estrutura do projeto:
 
