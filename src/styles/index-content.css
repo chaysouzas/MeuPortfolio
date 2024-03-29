@@ -20,7 +20,7 @@ div.texto_informacoes h1, h2, p{
 
 div.texto_informacoes p{
 
-    font-size: 0.85em;
+    font-size: 1em;
     font-weight: 400;
     font-family: var(--font-principal);
     color: #ffff;
